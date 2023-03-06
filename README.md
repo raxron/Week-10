@@ -12,4 +12,4 @@ npm install next-i18next
 npm i react-intl
 ```
 # Programing Language
-next.js
+next.js# Week-10
