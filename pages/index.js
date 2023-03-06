@@ -33,6 +33,7 @@ export default function Home(dir) {
               <div>{locale}</div>
             </Link>
           ))}
+          <Link href="new">Recreate page</Link>
       </header>
       <main className={styles.main}>
           <h1>

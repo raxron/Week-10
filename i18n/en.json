@@ -2,5 +2,17 @@
     "page.home.head.title": "Next.js i18n example",
     "page.home.head.meta.description": "Next.js i18n example - English",
     "page.home.title": "You are currently viewing the home page in English",
-    "page.home.description": "You are currently viewing the home page in English"
+    "page.home.description": "You are currently viewing the home page in English",
+
+    "new.home.head.title":"BCIT D3 Program",
+    "new.home.title":"Digital Design and Development",
+    "new.home.subtitle":"Diploma/Full-time/School of Business + Media",
+    "new.home.button.apply":"APPLY NOW",
+    "new.home.button.contact":"CONTACT US",
+    "new.home.main.title":"Overview",
+    "new.home.main.note":"Note: The September 2023 intake is closed for new applications from international applicants. Domestic applicants may continue to apply. Find programs accepting international students.",
+    "new.home.main.delivery":"Delivery: in person. See details.",
+    "new.home.main.description1":"In the Digital Design and Development diploma program at BCIT, you will build a solid foundation in designing, developing, and creating interactive, dynamic, immersive social and online applications across various digital media platforms.",
+    "new.home.main.description2":"Learn to work within a team to design and develop web and mobile applications, educational products, video, and audio assets for interactive media and business applications."
+
 }
